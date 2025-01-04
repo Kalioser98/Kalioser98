@@ -72,14 +72,13 @@ Systems and Computer Engineering student, focused primarily on data science and 
 [![My Skills](https://skillicons.dev/icons?i=discord&perline=6)](https://skillicons.dev)
 
 ## Contacto:
-<a href="mailto:aprende.ingenia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aprende.ingenia@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://twitter.com/santiagsanchezr"><img alt="LinkedIn" src="https://img.shields.io/twitter/follow/santiagsanchezr"></a>
+<a href="mailto:carpeca1998@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-carpeca1998@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/AprendeIngenia">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AprendeIngenia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AprendeIngenia&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kalioser98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kalioser98&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
