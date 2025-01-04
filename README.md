@@ -14,16 +14,8 @@ Systems and Computer Engineering student, focused primarily on data science and 
 <td width="50%">
 <h3 align="center">Tienda inteligente</h3>
 <div align="center">
-<a href="https://github.com/AprendeIngenia/Shopping-AI" target="_blank"><img src="https://github.com/AprendeIngenia/Shopping-AI/assets/85022752/4ef1e21b-4ffd-4cc3-a6ae-ffdcbd4a8d53"></a>
-<p>
-<a href="https://github.com/AprendeIngenia/Shopping-AI" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vQzuX4yM64g?si=9xYwerc6Skljs0Zw)" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-<p>Aprende a programar una increíble <strong>tienda inteligente. </strong> Una clase de más de 1 hora donde te enseño a utilizar herramientas de inteligencia artificial y visión por computadora para crear tu propio sistema de reconocimiento de objetos y proceso de pago en <strong>Tiempo REAL</strong> con todo el código disponible para descargar.</p>
+<a href="https://github.com/Kalioser98/appFood" target="_blank"><img src="https://private-user-images.githubusercontent.com/55110351/400090569-af1e8d6a-3221-44e8-b165-67edf547220e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYwMDgzNjYsIm5iZiI6MTczNjAwODA2NiwicGF0aCI6Ii81NTExMDM1MS80MDAwOTA1NjktYWYxZThkNmEtMzIyMS00NGU4LWIxNjUtNjdlZGY1NDcyMjBlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA0VDE2Mjc0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY3MTM4Y2M2MmVlZTNkYzYxMTdhNTAyYmUzZTdkOGY4OWMzNTcxOWJhNzZiYWUyMDIzMjUyZDkzOWIyN2E5NDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.70TETz3zmORjHLKpcTpfV39uU-1uZKOoLej7XVYeF80"></a>
+<p><strong>App Food</strong> is an application designed to reduce food waste. It partners with supermarkets to offer products nearing their expiration date at special discounts, promoting responsible consumption and preventing them from being discarded. .</p>
 </div>
                                                                                       
 </td>
@@ -90,16 +82,17 @@ Systems and Computer Engineering student, focused primarily on data science and 
 ## Habilidades y lenguajes:
 
 ### Lenguajes:
-[![My Skills](https://skillicons.dev/icons?i=py,arduino,matlab,cpp&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,dart,html,css&perline=4)](https://skillicons.dev)
 
 ### Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,anaconda,autocad&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&perline=9)](https://skillicons.dev)
 
 ### Software y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,flask,pycharm,vscode,stackoverflow&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=opencv,tensorflow,sklearn,aws,azure,vscode&perline=9)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pbi,figma&theme=light)
 
 ### Otros:
-[![My Skills](https://skillicons.dev/icons?i=sketchup,pr&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord&perline=6)](https://skillicons.dev)
 
 ## Contacto:
 <a href="mailto:aprende.ingenia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aprende.ingenia@gmail.com-blue?style=flat-square&logo=gmail"></a>
