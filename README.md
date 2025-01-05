@@ -22,11 +22,11 @@ Systems and Computer Engineering student, focused primarily on data science and 
 
 <td width="50%">
                <br>
-<h3 align="center">Proyecto 2</h3>
+<h3 align="center">COVID-19 Segmentation in CT Using U-Net++</h3>
 <div align="center">                                       
-<a href="https://github.com/AprendeIngenia/car_gesture_control" target="_blank"><img src="https://github.com/Kalioser98/Kalioser98/blob/main/Image/Imagen%20de%20WhatsApp%202025-01-04%20a%20las%2015.13.00_837bb1c0.jpg"></a>
+<a href="https://github.com/Kalioser98/U-Net-COVID-19-CT/tree/main" target="_blank"><img src="https://github.com/Kalioser98/Kalioser98/blob/main/Image/covid.png"></a>
 <br>
-</p>COMENTARIOS.</p>
+</p>A U-Net++ model was trained to segment computed tomography images, achieving a maximum IoU of 0.715 in validation.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
