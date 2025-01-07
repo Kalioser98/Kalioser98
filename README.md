@@ -37,8 +37,8 @@ Systems and Computer Engineering student, focused primarily on data science and 
 <td width="50%">
 <h3 align="center">Investigacion</h3>
 <div align="center">
-<a href="https://github.com/Kalioser98/Investigaci-n" target="_blank"><img src="https://github.com/Kalioser98/Kalioser98/blob/main/Image/Presentaci%C3%B3n%20Universitaria%20Tesis%20de%20Maestr%C3%ADa%20Historia%20del%20Arte%20Org%C3%A1nico%20Beige.png"></a>
-<p>COMENTARIOS.</p>
+<a href="https://github.com/Kalioser98/Adipose-Tissue-Segmentation-with-ML-for-Sarcopenic-Obesity" target="_blank"><img src="https://github.com/Kalioser98/Kalioser98/blob/main/Image/Presentaci%C3%B3n%20Universitaria%20Tesis%20de%20Maestr%C3%ADa%20Historia%20del%20Arte%20Org%C3%A1nico%20Beige.png"></a>
+<p>The research focuses on adipose tissue segmentation in CT scans using Machine Learning, with an emphasis on studying sarcopenic obesity. Architectures like Residual U-Net and U-Net++ were evaluated, achieving an average Dice coefficient >0.92. Residual U-Net stood out with 0.9515, demonstrating high accuracy and clinical potential, despite challenges with complex classes like Class 2. The results confirm its utility for automated medical diagnostics.</p>
 </div>
                                                                                       
 </td>       
