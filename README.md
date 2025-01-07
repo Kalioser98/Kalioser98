@@ -35,9 +35,9 @@ Systems and Computer Engineering student, focused primarily on data science and 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Proyecto 3</h3>
+<h3 align="center">Investigacion</h3>
 <div align="center">
-<a href="https://github.com/AprendeIngenia/Sistema-de-reconocimiento-facial-y-Liveness" target="_blank"><img src="https://github.com/Kalioser98/Kalioser98/blob/main/Image/Imagen%20de%20WhatsApp%202025-01-04%20a%20las%2015.13.00_837bb1c0.jpg"></a>
+<a href="https://github.com/Kalioser98/Investigaci-n" target="_blank"><img src="https://github.com/Kalioser98/Kalioser98/blob/main/Image/Presentaci%C3%B3n%20Universitaria%20Tesis%20de%20Maestr%C3%ADa%20Historia%20del%20Arte%20Org%C3%A1nico%20Beige.png"></a>
 <p>COMENTARIOS.</p>
 </div>
                                                                                       
