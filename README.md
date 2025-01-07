@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 Systems and Computer Engineering student, focused primarily on data science and artificial intelligence. Enthusiastic about exploring emerging technologies and applying artificial intelligence to solve challenges. Proficient in AWS technologies (S3, Redshift), TensorFlow, PowerBI, Scikit-learn, python, pandas, SQL.
-## Proyectos IA:
+## Proyectos :
 <table>
 <tr>
 <td width="50%">
