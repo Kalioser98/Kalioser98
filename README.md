@@ -65,7 +65,7 @@ Systems and Computer Engineering student, focused primarily on data science and 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&perline=9)](https://skillicons.dev)
 
 ### Software y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=opencv,tensorflow,sklearn,aws,azure,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=opencv,tensorflow,sklearn,aws,vscode&perline=9)](https://skillicons.dev)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pbi,figma&theme=light)
 
 ### Otros:
