@@ -1,13 +1,13 @@
 <h1 align="center"><b>Hello, I am Carlos Perez. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+Systems+Engineer+..♥++;Python+Programmer;I+like+Artificial+Intelligence;Data+Science;And+Competitions."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+Systems+Engineer+..♥++;Python+Programmer;I+like+Artificial+Intelligence;Developer+full+stack;Data+Science;And+Competitions."></a>
 </p>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Systems and Computer Engineering student, focused primarily on data science and artificial intelligence. Enthusiastic about exploring emerging technologies and applying artificial intelligence to solve challenges. Proficient in AWS technologies (S3, Redshift), TensorFlow, PowerBI, Scikit-learn, python, pandas, SQL.
+Systems and Computer Engineering, focused primarily on data science, artificial intelligence and developer full stack. Enthusiastic about exploring emerging technologies and applying artificial intelligence to solve challenges. Proficient in AWS technologies (S3, Redshift), TensorFlow, PowerBI, Scikit-learn, python, pandas, SQL, Angular, html, css.
 ## Proyectos :
 <table>
 <tr>
@@ -59,10 +59,10 @@ Systems and Computer Engineering student, focused primarily on data science and 
 ## Habilidades y lenguajes:
 
 ### Lenguajes:
-[![My Skills](https://skillicons.dev/icons?i=py,java,dart,html,css&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,dart,html,typescript,css&perline=4)](https://skillicons.dev)
 
 ### Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,angular,gitlab&perline=9)](https://skillicons.dev)
 
 ### Software y herramientas:
 [![My Skills](https://skillicons.dev/icons?i=opencv,tensorflow,sklearn,aws,vscode&perline=9)](https://skillicons.dev)
