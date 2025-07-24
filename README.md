@@ -15,7 +15,7 @@ Systems and Computer Engineering, focused primarily on data science, artificial 
 <h3 align="center">Tienda inteligente</h3>
 <div align="center">
 <a href="https://github.com/Kalioser98/appFood" target="_blank"><img src="https://private-user-images.githubusercontent.com/55110351/400090569-af1e8d6a-3221-44e8-b165-67edf547220e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYwMDgzNjYsIm5iZiI6MTczNjAwODA2NiwicGF0aCI6Ii81NTExMDM1MS80MDAwOTA1NjktYWYxZThkNmEtMzIyMS00NGU4LWIxNjUtNjdlZGY1NDcyMjBlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA0VDE2Mjc0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY3MTM4Y2M2MmVlZTNkYzYxMTdhNTAyYmUzZTdkOGY4OWMzNTcxOWJhNzZiYWUyMDIzMjUyZDkzOWIyN2E5NDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.70TETz3zmORjHLKpcTpfV39uU-1uZKOoLej7XVYeF80"></a>
-<p><strong>App Food</strong> is an application designed to reduce food waste. It partners with supermarkets to offer products nearing their expiration date at special discounts, promoting responsible consumption and preventing them from being discarded. .</p>
+<p><strong>App Food</strong> is an application designed to reduce food waste. It partners with supermarkets to offer products nearing their expiration date at special discounts, promoting responsible consumption and preventing them from being discarded.</p>
 </div>
                                                                                       
 </td>
